@@ -17,4 +17,8 @@ Find the smallest number for which the proportion is exactly 99%.
 Run the Task
 ------------
 
-	php exec.php
+From the root level of the cloned [Puzzles](https://github.com/joshuamorse/Puzzles) repo:
+
+	php Dynamic-Numbers/exec.php
+	
+It should take roughly 3-5 minutes to complete.
